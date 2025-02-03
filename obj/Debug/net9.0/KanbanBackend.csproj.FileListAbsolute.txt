@@ -1,7 +1,0 @@
-C:\Users\fernando.silva\Desktop\KanbanBackend\obj\Debug\net9.0\KanbanBackend.csproj.AssemblyReference.cache
-C:\Users\fernando.silva\Desktop\KanbanBackend\obj\Debug\net9.0\KanbanBackend.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\fernando.silva\Desktop\KanbanBackend\obj\Debug\net9.0\KanbanBackend.AssemblyInfoInputs.cache
-C:\Users\fernando.silva\Desktop\KanbanBackend\obj\Debug\net9.0\KanbanBackend.AssemblyInfo.cs
-C:\Users\fernando.silva\Desktop\KanbanBackend\obj\Debug\net9.0\KanbanBackend.csproj.CoreCompileInputs.cache
-C:\Users\fernando.silva\Desktop\KanbanBackend\obj\Debug\net9.0\KanbanBackend.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\fernando.silva\Desktop\KanbanBackend\obj\Debug\net9.0\KanbanBackend.MvcApplicationPartsAssemblyInfo.cache
